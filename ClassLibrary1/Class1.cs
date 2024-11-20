@@ -5,7 +5,7 @@ namespace Libros
     {
         public static bool NaturalNum(int num)
         {
-            return (num > 2);
+            return (num > 45);
         }
 
     }
