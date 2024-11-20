@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{49B6B725-D1FC-4754-BA42-0FDEA7D56C38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metode", "ConsoleApp1\Metode.csproj", "{49B6B725-D1FC-4754-BA42-0FDEA7D56C38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{2CB121BD-D357-4FC4-AB42-57BB48E8D765}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Libros", "ClassLibrary1\Libros.csproj", "{2CB121BD-D357-4FC4-AB42-57BB48E8D765}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{AB89F24D-D1FD-4178-88A3-59C2109C2DB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject1", "TestProject1\TestProject1.csproj", "{AB89F24D-D1FD-4178-88A3-59C2109C2DB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

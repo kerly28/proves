@@ -1,7 +1,12 @@
-﻿namespace ClassLibrary1
+﻿
+namespace Libros
 {
-    public class Class1
+    public class Libritos
     {
+        public static bool NaturalNum(int num)
+        {
+            return (num > 0);
+        }
 
     }
 }
